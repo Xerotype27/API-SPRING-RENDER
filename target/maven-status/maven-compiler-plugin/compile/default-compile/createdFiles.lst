@@ -1,0 +1,11 @@
+com\api\test\demo_psql\DemoPsqlApplication.class
+com\api\test\demo_psql\model\dao\ClientDao.class
+com\api\test\demo_psql\model\dto\ClientDto.class
+com\api\test\demo_psql\model\entity\Client$ClientBuilder.class
+com\api\test\demo_psql\service\IClientService.class
+com\api\test\demo_psql\service\impl\ClientImpl.class
+com\api\test\demo_psql\model\dto\ClientDto$ClientDtoBuilder.class
+com\api\test\demo_psql\model\payload\ResponseMessage.class
+com\api\test\demo_psql\model\payload\ResponseMessage$ResponseMessageBuilder.class
+com\api\test\demo_psql\controller\ClientController.class
+com\api\test\demo_psql\model\entity\Client.class
